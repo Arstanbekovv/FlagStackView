@@ -1,0 +1,6 @@
+framework module Pods_FlagStackView {
+  umbrella header "Pods-FlagStackView-umbrella.h"
+
+  export *
+  module * { export * }
+}
